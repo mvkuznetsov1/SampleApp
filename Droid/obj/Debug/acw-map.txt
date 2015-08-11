@@ -2,14 +2,6 @@ SampleApp.Droid.MainActivity, SampleApp.Droid;md52c22ec5f906a321dfad93224a1adf29
 SampleApp.Droid.MainActivity, SampleApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52c22ec5f906a321dfad93224a1adf29a.MainActivity
 SampleApp.Droid.MainActivity;md52c22ec5f906a321dfad93224a1adf29a.MainActivity
 sampleapp.droid.MainActivity;md52c22ec5f906a321dfad93224a1adf29a.MainActivity
-SampleApp.Droid.ActivityImageList, SampleApp.Droid;md52c22ec5f906a321dfad93224a1adf29a.ActivityImageList
-SampleApp.Droid.ActivityImageList, SampleApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52c22ec5f906a321dfad93224a1adf29a.ActivityImageList
-SampleApp.Droid.ActivityImageList;md52c22ec5f906a321dfad93224a1adf29a.ActivityImageList
-sampleapp.droid.ActivityImageList;md52c22ec5f906a321dfad93224a1adf29a.ActivityImageList
-SampleApp.Droid.ImageListAdapter, SampleApp.Droid;md52c22ec5f906a321dfad93224a1adf29a.ImageListAdapter
-SampleApp.Droid.ImageListAdapter, SampleApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52c22ec5f906a321dfad93224a1adf29a.ImageListAdapter
-SampleApp.Droid.ImageListAdapter;md52c22ec5f906a321dfad93224a1adf29a.ImageListAdapter
-sampleapp.droid.ImageListAdapter;md52c22ec5f906a321dfad93224a1adf29a.ImageListAdapter
 Android.Support.V4.App.FragmentManager/IOnBackStackChangedListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
 Android.Support.V4.App.FragmentManager/IOnBackStackChangedListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
 Android.Support.V4.App.FragmentManager.IOnBackStackChangedListenerImplementor;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor

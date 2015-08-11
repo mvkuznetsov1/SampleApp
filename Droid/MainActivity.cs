@@ -20,8 +20,6 @@ namespace SampleApp.Droid
 			global::Xamarin.Forms.Forms.Init (this, bundle);
 
 			LoadApplication (new App ());
-			var intent = new Intent(this, typeof(ActivityImageList));
-			this.StartActivity(intent);
 		}
 	}
 }

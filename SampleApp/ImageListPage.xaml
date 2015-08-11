@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="SampleApp.ImageListPage"
+xmlns:local="clr-namespace:SampleApp;assembly=SampleApp"
+Title="ListView Xaml Sample"
+>
+	<ContentPage.Content>
+		<ListView  x:Name="lstView" RowHeight="40">
+			<ListView.ItemTemplate>
+				<DataTemplate>
+					<ViewCell>
+						<StackLayout BackgroundColor="Black" Orientation="Vertical">
+							<StackLayout Orientation="Horizontal">
+								<Image Source="{Binding Image}" HeightRequest="30" WidthRequest="30"/>
+								<Label Text = "{Binding Text}" />
+							</StackLayout>
+						</StackLayout>	
+					</ViewCell>
+				</DataTemplate>
+			</ListView.ItemTemplate>
+		</ListView>
+	</ContentPage.Content>
+</ContentPage>
